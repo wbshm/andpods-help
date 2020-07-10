@@ -4,17 +4,66 @@ date: 2020-07-09 16:30:59
 tags:
 ---
 
-#  Hello
-This is the demo of hexo-theme-book 😃
+## 常见问题
+* [手机连接不上耳机](/2020/07/09/normal/#手机连接不上耳机)
+* [应用没办法查看电量](/2020/07/09/normal/#应用没办法查看电量)
+* [从任务列表中隐藏是什么意思](/2020/07/09/normal/#从任务列表中隐藏是什么意思)
+* [应用的耗电问题](/2020/07/09/normal/#应用的耗电问题)
+* [如何使用AndPods](/2020/07/09/normal/#如何使用AndPods)
+* [为什么电量是5%的倍数](/2020/07/09/normal/#如何使用AndPods)
+* [为什么提示“此机型不支持h1芯片耳机电量显示”](/2020/07/09/normal/#为什么提示“此机型不支持h1芯片耳机电量显示”)
+* [为什么AirPods音量比较轻](/2020/07/09/normal/#为什么AirPods音量比较轻)
+* [为什么需要定位权限](/2020/07/09/normal/#为什么需要定位权限)
+* [什么是双触、四触（AirPods一代，AirPods二代）](/2020/07/09/normal/#什么是双触、四触（AirPods一代，AirPods二代）)
+* [如何修改双触、四触为左右双触（AirPods一代，AirPods二代）](/2020/07/09/normal/#如何修改双触、四触为左右双触（AirPods一代，AirPods二代）)
+* [电量显示、入耳检测有延迟](/2020/07/09/normal/#电量显示、入耳检测有延迟)
+* [无法弹窗](/2020/07/09/normal/#无法弹窗)
+* [入耳检测失效](/2020/07/09/normal/#入耳检测失效)
 
-## Contribution
-* Feel free to open **issue** in the github repo if you have any suggestions to this theme.
-* Also, you can **pull request** directly if there exist any unsolved bugs.
+## Pro会员相关
+* [基础权益](/2020/07/10/pro/#基础权益)
+* [Pro权益](/2020/07/10/pro/#Pro权益)
 
+## 激活码相关
+* [如何授权](/2020/07/10/code/#如何授权)
+* [如何获得授权码](/2020/07/10/code/#如何获得授权码)
+* [授权有什么功能](/2020/07/10/code/#授权有什么功能)
+* [授权码无法使用怎么办](/2020/07/10/code/#授权码无法使用怎么办)
+* [什么是反激活](/2020/07/10/code/#什么是反激活)
+* [如何反激活](/2020/07/10/code/#如何反激活)
+* [提示没有反激活次数怎么办](/2020/07/10/code/#提示没有反激活次数怎么办)
+* [举个例子](/2020/07/10/code/#举个例子)
+* [付款须知](/2020/07/10/code/#付款须知)
+* [如何退款](/2020/07/10/code/#如何退款)
+* [如何找到历史订单](/2020/07/10/code/#如何找到历史订单)
+* [为何授权会消失](/2020/07/10/code/#为何授权会消失)
 
-## TimeLine
-* 2020/03/25 - v2.1.0 release
-* 2020/01/30 - v2.0.0 release
-* 2020/01/24 - v2.0.0 beta testing 🔥
-* 2019/07/03 - Submit this theme to hexo.io (pr#986)
-* 2019/04/28 - For more scalability, I developed this theme for my personal note used
+## 功能说明
+#### 通知
+* [隐藏通知栏](/2020/07/10/function-note/#隐藏通知栏)
+#### 行为
+* [型号筛选](/2020/07/10/function-active/#型号筛选)
+* [自动入耳检测](/2020/07/10/function-active/#自动入耳检测)
+* [双触摸控制](/2020/07/10/function-active/#双触摸控制)
+* [四触摸控制](/2020/07/10/function-active/#四触摸控制)
+* [按键功能替换](/2020/07/10/function-active/#按键功能替换)
+* [加载动画](/2020/07/10/function-active/#加载动画)
+* [设备过滤](/2020/07/10/function-active/#设备过滤)
+* [附近的耳机设备(beta)](/2020/07/10/function-active/#附近的耳机设备-beta)
+#### 界面
+* [弹窗自动打开](/2020/07/10/function-interface/#弹窗自动打开)
+* [自动弹窗延迟关闭(sec)](/2020/07/10/function-interface/#自动弹窗延迟关闭-sec)
+* [弹窗样式](/2020/07/10/function-interface/#弹窗样式)
+* [弹窗左右边距(pix)](/2020/07/10/function-interface/#弹窗左右边距-pix)
+* [弹窗底部边距(pix)](/2020/07/10/function-interface/#弹窗底部边距-pix)
+* [主题模式](/2020/07/10/function-interface/#主题模式)
+* [从任务列表中隐藏](/2020/07/10/function-interface/#从任务列表中隐藏)
+#### 支持
+* [应用授权](/2020/07/10/function-support/#应用授权)
+* [登陆账号/退出账号](/2020/07/10/function-support/#登陆账号-退出账号)
+#### 关于
+* [联系客服](/2020/07/10/function-about/#联系客服)
+* [常见问题](/2020/07/10/function-about/#常见问题)
+* [分享](/2020/07/10/function-about/#分享)
+* [服务协议和隐私政策](/2020/07/10/function-about/#服务协议和隐私政策)
+* [版本](/2020/07/10/function-about/#版本)

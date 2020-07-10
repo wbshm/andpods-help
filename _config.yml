@@ -7,14 +7,14 @@ title: AndPods
 subtitle: '帮助文档'
 description: 'AndPods常见问题的帮助文档'
 keywords: AndPods
-author: Andpods
+author: AndPods
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://andpods.gitee.io/blog
-root: /blog/
+url: https://andpods.gitee.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -99,7 +99,7 @@ theme: book
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@gitee.com:andpods/blog.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: git@gitee.com:andpods/andpods.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: [master]
   message: auto
 
