@@ -5,7 +5,7 @@ tags:
 ---
 
 # Pro会员相关
-功能 | 基础 | Pro
+AndPods功能 | 基础(免费) | Pro(8元，永久)
 ---- | --- | ---
 [电量显示](/2020/07/09/normal/#应用没办法查看电量) | YES | YES
 [隐藏通知栏](/2020/07/10/function-note/#隐藏通知栏) |  - | YES
@@ -24,9 +24,6 @@ tags:
 [弹窗底部边距(pix)](/2020/07/10/function-interface/#弹窗底部边距-pix) |  YES | YES
 [主题模式](/2020/07/10/function-interface/#主题模式) |  YES | YES
 [从任务列表中隐藏](/2020/07/10/function-interface/#从任务列表中隐藏) |  - | YES
-
-
-
 
 ## 基础权益
 * 基础权益为免费开放的功能。
