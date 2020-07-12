@@ -49,7 +49,7 @@ tags:
 * [按键功能替换](/2020/07/10/function-active/#按键功能替换)
 * [加载动画](/2020/07/10/function-active/#加载动画)
 * [设备过滤](/2020/07/10/function-active/#设备过滤)
-* [附近的耳机设备(beta)](/2020/07/10/function-active/#附近的耳机设备-beta)
+* [寻找我的耳机](/2020/07/10/function-active/#寻找我的耳机)
 #### 界面
 * [弹窗自动打开](/2020/07/10/function-interface/#弹窗自动打开)
 * [自动弹窗延迟关闭(sec)](/2020/07/10/function-interface/#自动弹窗延迟关闭-sec)

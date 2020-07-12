@@ -16,7 +16,7 @@ AndPods功能 | 基础(免费) | Pro(8元，永久)
 [按键功能替换](/2020/07/10/function-active/#按键功能替换) |  - | YES
 [加载动画](/2020/07/10/function-active/#加载动画) |  YES | YES
 [设备过滤](/2020/07/10/function-active/#设备过滤) |  - | YES
-[附近的耳机设备(beta)](/2020/07/10/function-active/#附近的耳机设备-beta) |  - | YES
+[寻找我的耳机](/2020/07/10/function-active/#寻找我的耳机) |  - | YES
 [弹窗自动打开](/2020/07/10/function-interface/#弹窗自动打开) |  YES | YES
 [自动弹窗延迟关闭(sec)](/2020/07/10/function-interface/#自动弹窗延迟关闭-sec) |  YES | YES
 [弹窗样式](/2020/07/10/function-interface/#弹窗样式) |  YES | YES
@@ -40,6 +40,6 @@ AndPods功能 | 基础(免费) | Pro(8元，永久)
     * [双触摸控制](/2020/07/10/function-active/#双触摸控制)
     * [四触摸控制](/2020/07/10/function-active/#四触摸控制)
     * [按键功能替换](/2020/07/10/function-active/#按键功能替换)
-* [附近的耳机设备(beta)](/2020/07/10/function-active/#附近的耳机设备-beta)
+* [寻找我的耳机](/2020/07/10/function-active/#附近的耳机设备-beta)
 * [从任务列表中隐藏](/2020/07/10/function-interface/#从任务列表中隐藏)
 * 更多功能，正在开发中...
