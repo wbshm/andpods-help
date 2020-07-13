@@ -8,20 +8,17 @@ tags:
 AndPods功能 | 基础(免费) | Pro(8元，永久)
 ---- | --- | ---
 [电量显示](/2020/07/09/normal/#应用没办法查看电量) | YES | YES
-[隐藏通知栏](/2020/07/10/function-note/#隐藏通知栏) |  - | YES
+[隐藏通知栏](/2020/07/10/function-interface/#隐藏通知栏) |  - | YES
 [型号筛选](/2020/07/10/function-active/#型号筛选) |  YES | YES
 [自动入耳检测](/2020/07/10/function-active/#自动入耳检测) |  - | YES
 [双触摸控制](/2020/07/10/function-active/#双触摸控制) |  - | YES
 [四触摸控制](/2020/07/10/function-active/#四触摸控制) |  - | YES
 [按键功能替换](/2020/07/10/function-active/#按键功能替换) |  - | YES
-[加载动画](/2020/07/10/function-active/#加载动画) |  YES | YES
 [设备过滤](/2020/07/10/function-active/#设备过滤) |  - | YES
-[查找我的耳机](/2020/07/10/function-active/#查找我的耳机) |  - | YES
-[弹窗自动打开](/2020/07/10/function-interface/#弹窗自动打开) |  YES | YES
-[自动弹窗延迟关闭(sec)](/2020/07/10/function-interface/#自动弹窗延迟关闭-sec) |  YES | YES
+[查找我的耳机](/2020/07/13/function-other/#查找我的耳机) |  - | YES
+[连接时自动弹窗](/2020/07/10/function-interface/#连接时自动弹窗) |  YES | YES
+[更多设置](/2020/07/10/function-interface/#更多设置) |  YES | YES
 [弹窗样式](/2020/07/10/function-interface/#弹窗样式) |  YES | YES
-[弹窗左右边距(pix)](/2020/07/10/function-interface/#弹窗左右边距-pix) |  YES | YES
-[弹窗底部边距(pix)](/2020/07/10/function-interface/#弹窗底部边距-pix) |  YES | YES
 [主题模式](/2020/07/10/function-interface/#主题模式) |  YES | YES
 [从任务列表中隐藏](/2020/07/10/function-interface/#从任务列表中隐藏) |  - | YES
 
@@ -42,7 +39,7 @@ AndPods功能 | 基础(免费) | Pro(8元，永久)
     * [双触摸控制](/2020/07/10/function-active/#双触摸控制)
     * [四触摸控制](/2020/07/10/function-active/#四触摸控制)
     * [按键功能替换](/2020/07/10/function-active/#按键功能替换)
-* [查找我的耳机](/2020/07/10/function-active/#附近的耳机设备-beta)
+* [查找我的耳机](/2020/07/13/function-other/#查找我的耳机)
 * [从任务列表中隐藏](/2020/07/10/function-interface/#从任务列表中隐藏)
 * [更多的电量显示方式](/2020/07/10/function-interface)
 * 更多功能，正在开发中...
