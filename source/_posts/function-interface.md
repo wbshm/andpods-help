@@ -14,11 +14,12 @@ tags:
 #### 隐藏通知栏
 * 开启后，就可以在通知栏显示耳机电量。
 * 关闭后，就会隐藏通知栏的电量显示。
-* {% asset_img tongzhilan.png 240 503.72 image %}
+* {% asset_img tongzhilan.png 212 460 image %}
 
 #### 从任务列表中隐藏
 * 开机隐藏后，会把当前应用从任务列表中隐藏起来。
 * 可以避免程序被误杀。
+* {% asset_img renwuliebiao.png 212 460 image %}
 
 
 #### 更多设置
@@ -38,3 +39,9 @@ tags:
 ##### 弹窗底部边距(pix)
 * 可以设置弹窗到屏幕底边的距离。单位为：像素
 * {% asset_img bianju.png 240 503.72 image %}
+
+#### 更多的电量显示方式
+> 在桌面添加耳机的电量显示。
+* 长按手机桌面->添加小部件->AndPods->拉出小部件
+* 通知栏快捷开关-下拉通知栏-编辑快捷控件按钮-找到AndPods的快捷开关，加入通知栏快捷开关中。
+* {% asset_img zhuomian.png 212 460 image %}
