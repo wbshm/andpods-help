@@ -21,7 +21,6 @@ tags:
 * 可以避免程序被误杀。
 * {% asset_img renwuliebiao.png 212 460 image %}
 
-
 #### 更多设置
 
 ##### 自动弹窗停留时长(秒)
