@@ -1,5 +1,5 @@
 ---
-title: AndPods-常见问题
+title: 常见问题
 date: 2020-07-09 19:45:14
 tags:
 ---
@@ -40,7 +40,8 @@ tags:
 * 已经优化了耗电问题。
 
 ## 如何使用AndPods
-[请访问百度经验](https://jingyan.baidu.com/article/215817f758e6321eda1423e9.html)，[B站](https://www.bilibili.com/video/av60323449)
+* [B站](https://www.bilibili.com/video/av60323449)。
+* [百度经验](https://jingyan.baidu.com/article/215817f758e6321eda1423e9.html)
 
 ## 为什么电量是5%的倍数
 因为AirPods传过来的最小刻度10%的倍数。显示为5%能把电量误差控制在5%以内
@@ -59,7 +60,7 @@ tags:
 
 ## 新版本升级Pro操作
 * 已有Pro帐号，直接登录Pro帐号。
-* 已有Pro订单号，登录帐号绑定订单号。
+* 已有Pro订单号，登录帐号绑定订单号。[如何找到历史订单](/2020/07/10/code/#如何找到历史订单)
 * 购买Pro，[更多Pro介绍](/2020/07/10/pro/)。 
 
 ## 如何修改双触、四触为左右双触
