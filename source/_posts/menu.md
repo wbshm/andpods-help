@@ -41,7 +41,7 @@ tags:
 * [设备过滤](/2020/07/10/function-active#设备过滤)
 #### 界面
 * [主题模式](/2020/07/10/function-interface/#主题模式)
-* [隐藏通知栏](/2020/07/10/function-interface/#隐藏通知栏)
+* [通知栏显示](/2020/07/10/function-interface/#通知栏显示)
 * [从任务列表中隐藏](/2020/07/10/function-interface/#从任务列表中隐藏)
 * [更多设置](/2020/07/10/function-interface/#更多设置)
 #### 其他
