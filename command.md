@@ -15,5 +15,5 @@ hexo g && hexo s
 ```bash
 hexo clean && hexo deploy
 # or
-hexo g -d
+hexo g -d 
 ```
