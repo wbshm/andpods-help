@@ -44,7 +44,7 @@ tags:
 * [B站](https://www.bilibili.com/video/av60323449)。
 * [百度经验](https://jingyan.baidu.com/article/215817f758e6321eda1423e9.html)
 
-## 为什么电量是5%的倍数
+## 为什么电量是5的倍数
 因为AirPods传过来的最小刻度10%的倍数。显示为5%能把电量误差控制在5%以内
 
 ## 为什么提示“此机型不支持h1芯片耳机电量显示”
