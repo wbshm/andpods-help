@@ -5,6 +5,9 @@
 ### 创建文章：
 > hexo new [layout] <title>
 
+### 支持rsync部署 
+`npm install hexo-deployer-rsync --save`
+
 
 ### 本地运行
 ```bash
