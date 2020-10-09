@@ -103,6 +103,15 @@ deploy:
   branch: [master]
   message: auto
 
+  type: rsync
+  host: <host>
+  user: <user>
+  root: <root>
+  port: [port]
+  delete: [true|false]
+  verbose: [true|false]
+  ignore_errors: [true|false]
+
 # markdown
 markdown:
   render:
