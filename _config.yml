@@ -102,7 +102,6 @@ deploy:
   repo: git@gitee.com:andpods/andpods.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: [master]
   message: auto
-
 - type: rsync
   host: s
   user: wangrq
