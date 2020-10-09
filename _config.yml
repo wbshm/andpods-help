@@ -103,7 +103,7 @@ deploy:
   branch: [master]
   message: auto
 - type: rsync
-  host: s
+  host: www.andpods.cn
   user: wangrq
   root: /data/www/help
   port: 22
