@@ -104,7 +104,7 @@ deploy:
   message: auto
 
 - type: rsync
-  host: www.andpods.cn
+  host: s
   user: wangrq
   root: /data/www/help
   port: 22
