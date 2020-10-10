@@ -102,14 +102,14 @@ deploy:
   repo: git@gitee.com:andpods/andpods.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: [master]
   message: auto
-- type: rsync
-  host: www.andpods.cn
-  user: wangrq
-  root: /data/www/help
-  port: 22
-  delete: true
-  verbose: false
-  ignore_errors: false
+#- type: rsync
+#  host: www.andpods.cn
+#  user: wangrq
+#  root: /data/www/help
+#  port: 22
+#  delete: true
+#  verbose: false
+#  ignore_errors: false
 
 # markdown
 markdown:
