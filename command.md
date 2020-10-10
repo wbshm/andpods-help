@@ -20,3 +20,7 @@ hexo clean && hexo deploy
 # or
 hexo g -d 
 ```
+### 部署到
+```bash
+scp -r ./.deploy_git/* www.andpods.cn:/data/www/help/
+```
