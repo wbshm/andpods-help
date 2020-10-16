@@ -4,6 +4,7 @@
 
 ### 创建文章：
 > hexo new [layout] <title>
+> hexo new post <title>
 
 ### 支持rsync部署 
 `npm install hexo-deployer-rsync --save`
