@@ -3,7 +3,6 @@ title: 版本信息
 date: 2020-10-28 12:36:16
 tags:
 ---
-> 最新版[下载地址](https://www.coolapk.com/apk/215321)
 
 ## V1.6.6 (最新版本)
 1. 增加beats flex耳机电量显示

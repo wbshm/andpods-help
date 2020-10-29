@@ -4,7 +4,6 @@ date: 2020-07-09 16:25:25
 tags:
 ---
 
-
 ## 常见问题
 * [无法显示电量](/2020/10/16/waiting-power/#无法显示电量)
 * [无法弹窗](/2020/07/09/normal/#无法弹窗)
@@ -41,16 +40,20 @@ tags:
 * [四触摸控制](/2020/07/10/function-active#四触摸控制)
 * [按键功能替换](/2020/07/10/function-active#按键功能替换)
 * [设备过滤](/2020/07/10/function-active#设备过滤)
+* [查找我的耳机](/2020/07/10/function-active#查找我的耳机)
+* [权限检测](/2020/07/10/function-active#权限检测)
+
 #### 界面
 * [主题模式](/2020/07/10/function-interface/#主题模式)
 * [通知栏显示](/2020/07/10/function-interface/#通知栏显示)
 * [从任务列表中隐藏](/2020/07/10/function-interface/#从任务列表中隐藏)
-* [更多设置](/2020/07/10/function-interface/#更多设置)
-#### 其他
-* [查找我的耳机](/2020/07/13/function-other/#查找我的耳机)
+* [弹窗设置](/2020/07/10/function-interface/#弹窗设置)
+* [小部件设置](/2020/07/10/function-interface/#小部件设置)
+
 #### 支持
 * [应用授权](/2020/07/10/function-support/#应用授权)
 * [登陆账号](/2020/07/10/function-support/#登陆账号)
+
 #### 关于
 * [联系客服](/2020/07/10/function-about/#联系客服)
 * [常见问题](/2020/07/10/function-about/#常见问题)
