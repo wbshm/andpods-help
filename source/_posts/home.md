@@ -61,6 +61,7 @@ tags:
 * [联系客服](/2020/07/10/function-about/#联系客服)
 * [常见问题](/2020/07/10/function-about/#常见问题)
 * [分享](/2020/07/10/function-about/#分享)
+* [如何注销账号](/2021/12/18/account-delete/)
 * [服务协议和隐私政策](/2020/07/10/function-about/#服务协议和隐私政策)
 * [版本](/2020/07/10/function-about/#版本)
 
