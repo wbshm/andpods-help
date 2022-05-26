@@ -7,7 +7,7 @@ tags:
 
 ## How to authorize
 > Software can be licensed through three channels:
-1. Through the historical order number: If the user has paid by scanning the QR code, he can copy the [historical order number] (#how to find the historical order), on the "Upgrade Pro Membership" page, click "Upgrade Pro Membership Using Order Number", Enter the order number to complete the authorization.
+1. Through the historical order number: If the user has paid by scanning the QR code, he can copy the [historical order number](#How-to-find-historical-orders) , on the "Upgrade Pro Membership" page, click "Upgrade Pro Membership Using Order Number", Enter the order number to complete the authorization.
 2. Via Alipay: On the "Upgrade Pro Membership" page, use Alipay to pay. After the payment is completed, the authorization can be successful.
 3. Via WeChat: On the "Upgrade Pro Membership" page, use WeChat to pay. After the payment is completed, the authorization can be successful.
 
