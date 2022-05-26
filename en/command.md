@@ -21,11 +21,6 @@ hexo clean && hexo deploy
 # or
 hexo g -d 
 ```
-
-```bash
-hexo clean && hexo g && cd ./en && hexo clean && hexo g && cd ../
-```
-
 ### 测试
 ```
 scp -r ./public/* 106.52.148.29:/usr/share/nginx/html/
@@ -33,5 +28,4 @@ scp -r ./public/* 106.52.148.29:/usr/share/nginx/html/
 ### 部署到服务器
 ```bash
 scp -r ./public/* www.andpods.cn:/data/www/help/
-scp -r ./en/public/* www.andpods.cn:/data/www/help/en
 ```

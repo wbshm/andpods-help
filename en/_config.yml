@@ -4,19 +4,17 @@
 
 # Site
 title: AndPods
-subtitle: '帮助文档'
-description: 'AndPods常见问题的帮助文档'
+subtitle: 'Help Documentation'
+description: 'Help documentation for frequently asked questions about AndPods'
 keywords: AndPods
 author: AndPods
-language:
-  - zh-CN
-  - en
+language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://andpods.gitee.io
-root: /
+root: /en
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

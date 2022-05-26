@@ -1,0 +1,9 @@
+<% if (theme.zoom_image && (page.zoom_image === undefined || page.zoom_image)){ %>
+    <%- js('js/zomming.2.1.1.min') %>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const zooming = new Zooming()
+            zooming.listen('.book-content img')
+        })
+    </script>
+<% } %>
