@@ -1,10 +1,10 @@
---
+---
 title: Personality - Description
 date: 2022-05-12 17:55:39
 tags:
 ---
 
-## personalities --- interface
+## Personality - Interface
 {% asset_img personal.jpg 240 503.72 image %}
 
 ### Theme mode
@@ -16,11 +16,11 @@ tags:
 * Rounded corners: You can adjust the rounded corners of the popup window
 * Name position
     * Name left: the setting interface can be accessed from the gear icon in the upper right corner of the popup
-    * Name in the center: you can click the name of the headset in the pop-up window to enter the setting interface
-* Animation effect: whether to show the animation effect of the headset in the pop-up window
+    * Name in the center: you can click the name of the earphone in the pop-up window to enter the setting interface
+* Animation effect: whether to show the animation effect of the earphone in the pop-up window
 * Pop-up animation.
-    * Power first: Once the app gets the power of the headset, it will stop the pop-up animation and show the power of the headset
-    * Animation first: the app will play the full pop-up animation, the animation is complete before showing the headset's power
+    * Power first: Once the app gets the power of the earphone, it will stop the pop-up animation and show the power of the earphone
+    * Animation first: the app will play the full pop-up animation, the animation is complete before showing the earphone's power
 {% asset_img tcys.jpg 240 503.72 image %}
 
 ### Notification settings

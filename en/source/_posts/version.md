@@ -1,110 +1,110 @@
 ---
-title: 版本信息
+title: Version information
 date: 2020-10-28 12:36:16
 tags:
 ---
-## V2.4.6 (最新版本)
-> 更新日期：2022-05-20
-1. 优化添加耳机流程
-2. 增加自动弹窗停留时长3秒选项
-3. 优化弹窗开启／关闭转场效果
-4. 修复部分已知问题
+## V2.4.6 (latest version)
+> Update date: 2022-05-20
+1. optimize the process of adding earphone
+2. add the option of auto pop-up window stay for 3 seconds
+3. Optimize the effect of opening/closing the transition of pop-up windows
+4. fix some known problems
 
 
 ## V2.4.5
-> 更新日期：2022-05-19
-1. 优化添加耳机流程
-2. 增加自动弹窗停留时长3秒选项
-3. 优化弹窗开启／关闭转场效果
-4. 修复部分已知问题
+> Update Date：2022-05-19
+1. optimize the process of adding earphone
+2. add the option of automatic pop-up window stay for 3 seconds
+3. Optimize the effect of opening/closing the transition of pop-up windows
+4. fix some known problems
 
 ## V2.4.2
-> 更新日期：2022-04-24
-1. 优化界面显示
-2. 优化权限申请引导
-3. 优化耳机电量显示
-4. 优化耳机添加、配对流程
-5. 优化后台常驻配置
-6. 优化组件显示（后续会优化已有小组件，另加入新的小组件）
+> Update Date：2022-04-24
+1. optimize the interface display
+2. Optimize permission application guidance
+3. Optimize headset power display
+4. Optimize the process of adding and pairing earphone
+5. Optimize the background resident configuration
+6. optimize the display of components (the existing widgets will be optimized and new widgets will be added later)
 
 ## V2.3.8
-> 更新日期：2022-04-24
-1. 优化界面显示
-2. 修复部分已知问题
+> Update date: 2022-04-24
+1. optimize the interface display
+2. fix some known problems
 
 
 ## V2.3.5
-> 更新日期：2022-04-11
-1. 优化圆形通知图标显示
-2. 修复部分场景闪退问题
+> Update：2022-04-11
+1. optimize the display of circular notification icons
+2. fix the flashback problem in some scenes
 
 ## V2.3.1
-> 更新日期：2022-03-25
-1. 增加智能客服方案
-2. 修复部分已知问题
+> Update：2022-03-25
+1. add intelligent customer service solution
+2. fix some known problems
 
 ## V2.3.0
-> 更新日期：2022-03-14
-1. 优化Beats Fit Pro 电量显示
-2. 修复部分已知问题
+> Update：2022-03-14
+1. optimize Beats Fit Pro power display
+2. fix some known problems
 
 ## V2.2.8 
-> 更新日期： 2021-12-21
-1. 优化小组件显示
-2. 优化权限获取
-3. 修复部分已知问题
+> Updated: 2021-12-21
+1. Optimize widget display
+2. Optimize permission acquisition
+3. fix some known problems
 
 ## V2.2.6
-> 更新日期： 2021-12-21
-1. 适配Android12
-2. 优化权限申请
-3. 修复部分已知问题
+> Updated: 2021-12-21
+1. Adapt to Android12
+2. Optimize permission application
+3. fix some known problems
 
 ## V2.2.5
-> 更新日期： 2021-12-14
-1. 适配Beats Fit Pro
-2. 优化小组件显示
-3. 修复部分已知问题
+> Updated: 2021-12-14
+1. Adapt to Beats Fit Pro
+2. Optimize widget display
+3. fix some known problems
 
 ## V2.2.3
-> 更新日期： 2021-11-20
-1. 适配Beats Studio Buds
-2. 加入AirPods 3 耳机动画
-3. 优化安装包大小
-4. 修复部分已知问题
+> Updated: 2021-11-20
+1. Adapt to Beats Studio Buds
+2. Add AirPods 3 earphone animation
+3. Optimize the installation package size
+4. Fix some known problems
 
 
 ## V2.2.1
-> 更新日期：2021-10-30
-1. 适配AirPods3
-2. 优化应用体验
-3. 修复部分已知问题
+> Update Date: 2021-10-30
+1. Adapt to AirPods 3
+2. Optimize the application experience
+3. fix some known problems
 
 ## V2.1.0
-> 更新日期：2021-9-27
-1. UI界面一致性优化
-2. 加入弹窗动画开关，可以通过个性——弹窗设置中更改
-3. 修复部分已知问题
+> Updated: 2021-9-27
+1. UI interface consistency optimization
+2. Add pop-up animation switch, you can change it through personality - pop-up settings
+3. Fix some known problems
 
 ## V2.0.5
-> 更新日期： 2021-9-19
-1. 修复部分已知问题
+> Update Date: 2021-9-19
+1. fix some known problems
 
 ## V2.0.4
-> 更新日期： 2021-9-18
-1. 修复部分已知问题
+> Updated: 2021-9-18
+1. fix some known problems
 
 ## V2.0.1
-> 更新日期： 2021-9-16 
+> Update Date: 2021-9-16 
 
-    新版本更新内容：
-        -全新的UI界面，更清爽直观
-        -功能优化
+    New version updates include.
+        -New UI interface, more refreshing and intuitive
+        -Functional optimization
 
-1. 多耳机管理：应用中可以添加多个耳机设备进行配置管理。
-    - 可以将耳机的功能设置单独设置啦。
-2. 耳机型号识别：智能识别耳机型号，不再担心耳机型号选错啦。
-3. 添加耳机：可以通过添加耳机，通过应用提示操作配对连接耳机。
-4. 弹窗可滑动关闭
-5. 优化平板弹窗界面显示
-6. 其他功能优化
+1. Multi-headset management: you can add multiple headset devices in the application for configuration management.
+    - You can set the headset function settings separately.
+2. Headset model recognition: intelligent recognition of headset model, no longer worry about the wrong headset model selection it.
+3. Add earphone: you can add earphone by the application prompts operation pairing connected earphone.
+4. Pop-up window can be slid to close
+5. Optimize the display of the pop-up window interface of the tablet
+6. Other function optimization
