@@ -27,7 +27,7 @@ hexo clean && hexo g && cd ./en && hexo clean && hexo g && cd ../
 ```
 
 ### 测试
-```
+```shell
 scp -r ./public/* 106.52.148.29:/usr/share/nginx/html/
 ```
 ### 部署到服务器
