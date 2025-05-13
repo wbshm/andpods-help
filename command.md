@@ -16,6 +16,8 @@ hexo g && hexo s
 ```
 
 ### 部署命令
+- sudo n 
+- 切换到node 12
 ```bash
 hexo clean && hexo deploy
 # or
